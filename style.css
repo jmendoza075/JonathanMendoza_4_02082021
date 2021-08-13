@@ -1055,7 +1055,8 @@ blockquote footer {
 .logoshadow {
 	filter: drop-shadow(0px -1px 5px #f8a985);
 }
-#contact_center {
+#contact_center,
+a {
 	text-align: center;
 	font-weight: 600;
 }
