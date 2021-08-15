@@ -757,7 +757,7 @@ h4 {
 }
 
 .black-background {
-	background-color: rgba(165, 147, 99, 0.7);
+	background-color: rgb(165, 147, 99);
 	padding: 40px 40px 40px 40px;
 }
 
@@ -1053,7 +1053,7 @@ blockquote footer {
 	color: #333;
 }
 .logoshadow {
-	filter: drop-shadow(0px -1px 5px #f8a985);
+	filter: drop-shadow(0px -1px 30px #f8a985);
 }
 #contact_center,
 a {
