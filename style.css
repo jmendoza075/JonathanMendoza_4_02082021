@@ -1059,4 +1059,5 @@ blockquote footer {
 a {
 	text-align: center;
 	font-weight: 600;
+	letter-spacing: 0.1em;
 }
