@@ -14,6 +14,13 @@
 - Réaliser une recherche des bonnes pratiques en développement web
 - Optimiser la taille et la vitesse d’un site web
 
+### Objectifs
+
+Amélioration du référencement un siteweb existant. Audit, optimisation et comparaison des résultats.
+Adapter l'accessibilité selon la recommandation : Web Content Accessibility Guidelines (WCAG)
+Accélérer le téléchargement du siteweb.
+La validation des codes sur W3C en HTML et CSS devront passer sans erreur.
+
 ### Livrables
 
 - Le rapport d’analyse SEO du site
