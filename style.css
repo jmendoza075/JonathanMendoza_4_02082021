@@ -10,7 +10,6 @@ body {
 a,
 button {
 	transition: all 0.3s ease-in-out;
-	outline: none !important;
 }
 
 a:hover {
@@ -461,10 +460,6 @@ nav .caret {
 	background: rgba(0, 0, 0, 0.3);
 }
 
-button {
-	outline: none !important;
-}
-
 .btn-rd {
 	border-radius: 40px;
 }
@@ -710,7 +705,6 @@ p {
 h2 {
 	font-size: 22px;
 	line-height: 1.4em;
-	
 }
 
 h3 {
@@ -1062,33 +1056,36 @@ a {
 	font-weight: 600;
 	letter-spacing: 0.1em;
 }
-#blc5_h2{
+#blc5_h2 {
 	padding: 0 20px;
 }
 .flex_title {
 	display: flex;
 	justify-content: center;
 }
-#title1{	
+#title1 {
 	max-width: 58%;
 }
 #title2 {
 	max-width: 45%;
-	}
+}
 
 @media (max-width: 767px) {
-	#title1{	
+	#title1 {
 		max-width: 70%;
 	}
 	#title2 {
 		max-width: 50%;
-		}
+	}
 }
 @media (max-width: 400px) {
-	#title1{	
+	#title1 {
 		max-width: 90%;
 	}
 	#title2 {
 		max-width: 70%;
-		}
+	}
+}
+.navbar-toggle:focus {
+	outline: 5px auto -webkit-focus-ring-color;
 }
