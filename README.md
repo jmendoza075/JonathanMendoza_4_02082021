@@ -2,7 +2,7 @@
 
 ## OpenClassroooms Project 4
 
-> "Project 4 : Optimisez un site web existant" dans le cadre du cours de Développeur Web chez OpenClassroooms.
+> "Projet 4 : Optimisez un site web existant" dans le cadre du cours de Développeur Web chez OpenClassroooms.
 
 > This is "Project 4: Optimise an existing website". It is a part of the training course for Web Developper at OpenClassrooms.
 
